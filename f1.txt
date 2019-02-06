@@ -1,0 +1,29 @@
+this is B02
+
+git add f1.txt
+
+
+
+dafsda
+
+fdas
+asdf
+sad
+fdas
+fdas
+fd
+af
+[A[A[A[A[A[A[A[B[B[B[B[B[A[A[B[C[A[C[C[C[C[C[A[C[C[A[C[C[A[C[C[A[C[C[[A[C[A[A[A[A[C[C[C[C[C[C[C[C[A[A[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[$ git status
+
+
+[A[A[A[A[B[C[C[C[C[C[C[C[C[C[C[C[C[A[A[A[A[A[B[B[B[B[B[B[C[A[A[A[A[B[B
+S cat
+[A[C[C[C[C[C[C add .
+
+
+
+
+
+Kill
+ca;;
+fffl
